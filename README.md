@@ -3,7 +3,7 @@
   align-items: center;
 ">
   <img src="assets/img/logo.png" style="height:1.5em;">
-  <span style="font-size: 48pt; margin-left: 0.2em;">
+  <span style="font-size: .5em; margin-left: 0.2em;">
   CuSafe: Capturing Memory Corruptions on NVIDIA GPUs
   </span>
 </h1>
